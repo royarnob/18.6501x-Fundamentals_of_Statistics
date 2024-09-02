@@ -1,2 +1,1 @@
-# 18.6501x
-MITx: Fundamentals of Statistics
+# MITx 18.6501x: Fundamentals of Statistics
